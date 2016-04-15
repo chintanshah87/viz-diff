@@ -59,7 +59,7 @@ var fileName=item;
 		} else {	
 			console.log(diff.hasPassed(result.code) ? 'Passed' : 'Failed');
 			console.log('Differences:', result.differences, '(' + Math.round((result.differences / result.dimension) * 10000) / 100 + '%)');
-			BlinkDiff.log("["+now+"] "+ fileName + "\n" + "Execution Completed with threshold: "+ ((config.Threshold)/100) + "\n"+ "Delta: " + config.Delta + "\n" + "Found "
+			BlinkDiff.log("["+now+"] "+ fileName + "\n" + "Execution Completed with threshold: "+ config.Threshold+'%' + "\n"+ "Delta: " + config.Delta + "\n" + "Found "
 					+ result.differences + '(' + Math.round((result.differences / result.dimension) * 10000) / 100 + '%)'+ " differences." + "\n"
 					+ (diff.hasPassed(result.code) ? "Passed" : "Failed")
 					+ "\n" + "\n" + "\n");
