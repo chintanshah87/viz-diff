@@ -56,9 +56,9 @@ Navigate to Output directory folder and verify the images.
 You can also check *ExecutionLog.log* file for more detail.
 
 ## Acknowledgement
-All the credit goes to [Yahoo](https://github.com/yahoo) & [marcelerz](https://github.com/marcelerz) for creating such a wonderful library [blink-diff](https://github.com/yahoo/blink-diff/).
+All credit goes to [Yahoo](https://github.com/yahoo) & [marcelerz](https://github.com/marcelerz) for creating such a wonderful library [blink-diff](https://github.com/yahoo/blink-diff/).
 
-## Contributor:
+## Contributor
 - [chintanshah87](https://github.com/chintanshah87)
 
 ## License
