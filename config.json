@@ -1,0 +1,12 @@
+{
+"BaselineImagePath": "./BaselineImages",
+"WebImagePath": "./WebImages",
+"OutputPath": "./Output",
+"Threshold": "1",
+"Delta": "30",
+"hShift": "0",
+"vShift": "0",
+"perceptual":"true",
+"hideShift": "false",
+"gamma": "0"
+}
