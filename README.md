@@ -62,4 +62,4 @@ All credit goes to [Yahoo](https://github.com/yahoo) & [marcelerz](https://githu
 - [chintanshah87](https://github.com/chintanshah87)
 
 ## License
-[MIT License - blink-diff](https://github.com/yahoo/blink-diff/blob/master/LICENSE)
+[MIT License](https://github.com/yahoo/blink-diff/blob/master/LICENSE)
