@@ -2,7 +2,7 @@
 "BaselineImagePath": "./BaselineImages",
 "WebImagePath": "./WebImages",
 "OutputPath": "./Output",
-"Threshold": "1",
+"Threshold": "10",
 "Delta": "30",
 "hShift": "0",
 "vShift": "0",
