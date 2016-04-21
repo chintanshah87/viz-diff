@@ -42,7 +42,7 @@ In the root directory *config.json* contains very basic configurations.
 - *Delta:* Distance colors in the 4 dimensional color-space
 
 ### Setup Folders with PNG Files
-Keep file name same across BaselineImages & WebImages directory as during execution file having name in BaselineImages will be searched in WebImages directory and executio will be perfoemed.
+Keep file name same across BaselineImages & WebImages directory as during execution file having name in BaselineImages will be searched in WebImages directory and execution will be perfoemed.
 
 You can add as many files as you want in both the directories
 
